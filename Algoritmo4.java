@@ -16,7 +16,7 @@ Exemplo em Python:
     print 'numero inverso do primeiro: ', 1.0/num1
     print 'soma do segundo número com a metade do primeiro: ', num2 + (num1 / 2.0)
     print 'valor oposto do segundo numero: ', num2 * -1
-
+@RicardoZadinello 10/09/2019 10:09AM Blumenau-SC
 */
 
 import java.util.Scanner;
